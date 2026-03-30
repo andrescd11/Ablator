@@ -1,10 +1,17 @@
+<div align="center">
+
 # 📥 Quick Download
 
-[![Download Ablator](https://img.shields.io/badge/Download-Ablator--Installer-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/andrescd11/Ablator/releases/download/v1.0/Ablator_Installer.exe)
+<a href="https://github.com/andrescd11/Ablator/releases/download/v1.0/Ablator_Installer.exe">
+  <img src="https://img.shields.io/badge/DOWNLOAD_ABLATOR-Standalone_Installer-orange?style=for-the-badge&logo=windows&logoColor=white" height="70">
+</a>
 
-> *Standalone version: No MATLAB license required. Direct download for Windows.*
+### [👉 CLICK HERE TO DOWNLOAD THE WINDOWS INSTALLER (.exe) 👈](https://github.com/andrescd11/Ablator/releases/download/v1.0/Ablator_Installer.exe)
+
+**No MATLAB license required. Works as a traditional Windows application.**
 
 ---
+</div>
 
 # Ablator: LPL Rocket Engine Digital Twin 🚀
 
