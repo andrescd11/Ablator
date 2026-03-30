@@ -1,5 +1,5 @@
 # 📥 Quick Download
-> **[Click here to download the Standalone Installer (.exe)](PEGA_AQUÍ_EL_ENLACE)**
+> **[Click here to download the Standalone Installer (.exe)]((https://github.com/andrescd11/Ablator/releases/download/v1.0/Ablator_Installer.exe)**
 > *No MATLAB license required. Works as a traditional Windows application.*
 
 ---
