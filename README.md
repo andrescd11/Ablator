@@ -1,3 +1,9 @@
+# 📥 Quick Download
+> **[Click here to download the Standalone Installer (.exe)](PEGA_AQUÍ_EL_ENLACE)**
+> *No MATLAB license required. Works as a traditional Windows application.*
+
+---
+
 # Ablator: LPL Rocket Engine Digital Twin 🚀
 
 A high-fidelity MATLAB Digital Twin designed for simulating rocket engine transient aerothermodynamics and erosive ablation. This tool couples radial heat conduction with a real-time gas dynamics core and liquid film cooling models.
