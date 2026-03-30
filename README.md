@@ -1,6 +1,8 @@
 # 📥 Quick Download
-> **[Click here to download the Standalone Installer (.exe)]((https://github.com/andrescd11/Ablator/releases/download/v1.0/Ablator_Installer.exe)**
-> *No MATLAB license required. Works as a traditional Windows application.*
+
+[![Download Ablator](https://img.shields.io/badge/Download-Ablator--Installer-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/andrescd11/Ablator/releases/download/v1.0/Ablator_Installer.exe)
+
+> *Standalone version: No MATLAB license required. Direct download for Windows.*
 
 ---
 
