@@ -33,8 +33,7 @@ A high-fidelity MATLAB Digital Twin designed for simulating rocket engine transi
 ### 1. Requirements
 - **MATLAB Runtime** (if using the standalone `.exe`).
 - **CoolProp** (included via DLLs in the package).
-- **Python** (linked via `pyenv` for film cooling calculations).
-
+- 
 ### 2. Configuration
 The simulator allows for rapid configuration via `.txt` presets. 
 - Use the **[IMPORT .txt CONFIGURATION]** button to load files like `Nova_Engine_Config.txt`.
@@ -53,7 +52,6 @@ To fill the "CEA Gas" section, run a NASA CEA analysis and look for:
 - `/bin`: Contains the standalone executable installer.
 - `/docs`: High-fidelity documentation including "Nozzle Heat Transfer Model – For Theseus LPL Engine.pdf".
 - `/examples`: Configuration presets for Nova and Theseus engines.
-- `Ablator.mlapp`: Main MATLAB App Designer source file.
 
 ---
 
