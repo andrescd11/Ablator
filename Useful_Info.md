@@ -18,10 +18,7 @@
 ## 📝 1. Executive Summary
 **Ablator** is a specialized Digital Twin developed to simulate the non-linear thermal degradation of rocket engine liners. Unlike static thermal models, Ablator couples a **1D radial heat conduction solver** with a **real-time core gas aerodynamics engine**.
 
-The software predicts **"Erosive Ablation"**—the material loss occurring when the liner's surface reaches its phase-change temperature ($T_{abl}$). This provides critical data for:
-* Engine life-cycle analysis.
-* Throat erosion rates.
-* Thermal structural integrity for LPL’s liquid rocket programs (**Nova** & **Theseus**).
+The software predicts **"Erosive Ablation"**—the material loss occurring when the liner's surface reaches its phase-change temperature ($T_{abl}$).
 
 ---
 
